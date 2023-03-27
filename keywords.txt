@@ -1,0 +1,9 @@
+pushButton	KEYWORD1
+Potentiometer	KEYWORD1
+LED	KEYWORD1
+state	KEYWORD2
+value	KEYWORD2
+smooth_value	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
